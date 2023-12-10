@@ -1,0 +1,9 @@
+gradio==4.8.0
+accelerate==0.25.0
+diffusers==0.21.0
+transformers==4.35.2
+imageio==2.31.6
+nltk==3.8.1
+openai
+torch==2.1.0+cu118
+numpy==1.23.5
