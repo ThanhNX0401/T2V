@@ -1,1 +1,2 @@
-run python app.py --public_access
+to run program:
+python app.py --public_access
